@@ -1,3 +1,7 @@
 latihan php
 latihan html
 latihan css
+latihan js
+latihan phyton
+latihan JAVA
+latihan pemrograman lenguage
